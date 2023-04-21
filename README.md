@@ -1,5 +1,5 @@
-Dataset: LOD2 data of Bavaria in stl files
-
+# Dataset: LOD2 data of Bavaria in stl files
+Downloaded and processed on 2023-04-21
 ## English version
 This repository contains 3D building data of the german state of bavaria. Whereas the original data set comes in the format of `citygml`, this data set
 is a converted version of compressed `.stl` files.
