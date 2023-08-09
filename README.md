@@ -1,3 +1,7 @@
+> [!NOTE]  
+> This is a test repository. We intend to upload our processed files here in the future.
+
+
 # Dataset: LOD2 data of Bavaria in stl files
 Downloaded and processed on 2023-04-21
 ## English version
